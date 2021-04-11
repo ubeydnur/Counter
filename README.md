@@ -1,6 +1,7 @@
 # Counter 
 ---  
-React ve Redux kullanarak yaptığım sayaç uygulaması. Uygulama +1 -1 +2 olarak 3 fonksiyonla çalışmaktadır   
+React ve Redux kullanarak yaptığım sayaç uygulaması.  
+Uygulama +1 -1 +2 olarak 3 fonksiyonla çalışmaktadır   
 ---
 [Create-React-App](https://create-react-app.dev/) hazır temellerini kullanarak projemi oluşturdum.  
   
