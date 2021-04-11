@@ -1,3 +1,20 @@
+# Counter 
+---  
+React ve Redux kullanarak yaptığım sayaç uygulaması. Uygulama +1 -1 +2 olarak 3 fonksiyonla çalışmaktadır   
+---
+[Create-React-App](https://create-react-app.dev/) hazır temellerini kullanarak projemi oluşturdum.  
+  
+---  
+![gif](readme.gif)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
